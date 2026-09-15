@@ -90,6 +90,13 @@ The dashboard includes:
 - Brent crude oil and USD/NGN return relationship
 - Key analytical insights from the dataset
 
+## # USD/NGN Market Risk Dashboard
+
+An interactive dashboard analysing USD/NGN exchange-rate movements,
+volatility, and the relationship with Brent crude oil prices.
+
+🚀 [View Live Dashboard](https://usd-ngn-market-risk.streamlit.app/)
+
 ## How to Run the Project
 
 ### 1. Clone the repository
